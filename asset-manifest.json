@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/runtime-main.369de4b7.js",
+    "runtime-main.js.map": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/runtime-main.369de4b7.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://nagendrajimaninta.github.io/csb-9ct9z4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://nagendrajimaninta.github.io/csb-9ct9z4/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369de4b7.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
